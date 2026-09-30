@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">PMDM UT1</string>
-    <string name="titulo">Aplicación de ejemplo</string>
-    <string name="subtitulo">Programación Multimedia y Dispositivos Móviles</string>
-    <string name="descripcion">Proyecto base para analizar la estructura de una aplicación Android.</string>
+    <string name="app_name">UT1- Jonathan Rodriguez</string>
+    <string name="titulo_nuevo">Mi Primera Práctica</string>
+    <string name="subtitulo">Desarrollo Android</string>
+    <string name="descripcion">El desarrollo móvil es el futuro.</string>
 </resources>
